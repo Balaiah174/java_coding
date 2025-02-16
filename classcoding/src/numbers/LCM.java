@@ -13,7 +13,7 @@ public class LCM {
 		
 		int temp1 = product / a;
 		}
-		System.out.println();
+		System.out.println(product);
 	}
 	
 }
